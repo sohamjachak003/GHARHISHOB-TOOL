@@ -1,0 +1,6 @@
+{
+  "name": "GharHishob",
+  "description": "Smart Construction and Home Expense Manager for tracking building materials, labour, transport, budgets, and home expenses in Indian Rupees.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
